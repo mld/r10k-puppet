@@ -16,8 +16,8 @@ mod 'puppetlabs/vcsrepo'
 mod 'puppetlabs/concat'
 
 # Puppet
-mod 'stephenrjohnson-puppet'
-mod 'puppetlabs-inifile'
-mod 'puppetlabs-apache'
-mod 'puppetlabs-puppetdb'
-mod 'puppetlabs-stdlib'
+mod 'stephenrjohnson/puppet'
+mod 'puppetlabs/inifile'
+mod 'puppetlabs/apache'
+mod 'puppetlabs/puppetdb'
+mod 'puppetlabs/stdlib'
