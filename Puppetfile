@@ -3,8 +3,8 @@
 forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
-mod "puppetlabs/stdlib"
 mod "zack/r10k"
+mod "puppetlabs/stdlib"
 mod 'gentoo/portage'
 mod 'mhuffnagle/make'
 mod 'puppetlabs/gcc'
@@ -14,3 +14,10 @@ mod 'puppetlabs/pe_gem'
 mod 'puppetlabs/ruby'
 mod 'puppetlabs/vcsrepo'
 mod 'puppetlabs/concat'
+
+# Puppet
+mod 'stephenrjohnson-puppet'
+mod 'puppetlabs-inifile'
+mod 'puppetlabs-apache'
+mod 'puppetlabs-puppetdb'
+mod 'puppetlabs-stdlib'
