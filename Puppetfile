@@ -23,4 +23,4 @@ mod 'puppetlabs/puppetdb'
 mod 'puppetlabs/stdlib'
 
 # Hiera
-mod 'hunner/puppet-hiera'
+mod 'hunner/hiera'
