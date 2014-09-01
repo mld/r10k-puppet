@@ -21,3 +21,6 @@ mod 'puppetlabs/inifile'
 mod 'puppetlabs/apache'
 mod 'puppetlabs/puppetdb'
 mod 'puppetlabs/stdlib'
+
+# Hiera
+mod 'hunner/puppet-hiera'
