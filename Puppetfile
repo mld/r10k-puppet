@@ -1,4 +1,4 @@
-# Production
+# Test
 
 forge "http://forge.puppetlabs.com"
 
